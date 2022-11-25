@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JarDeneme">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../JarDeneme.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
